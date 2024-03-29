@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2509166822",
+    "project_id": "weather-1d393",
+    "storage_bucket": "weather-1d393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2509166822:android:4e62a87f294368175a4327",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmE7adSX_N7OckS8lskYhiUBE3AlGHZYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
